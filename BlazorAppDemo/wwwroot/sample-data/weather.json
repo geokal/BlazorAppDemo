@@ -1,0 +1,52 @@
+﻿[
+  {
+    "date": "2022-02-06",
+    "temperatureC": 7,
+    "summary": "Cool"
+  },
+  {
+    "date": "2022-02-07",
+    "temperatureC": -10,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2022-02-08",
+    "temperatureC": 15,
+    "summary": "Mild"
+  },
+  {
+    "date": "2022-02-09",
+    "temperatureC": -3,
+    "summary": "Chilly"
+  },
+  {
+    "date": "2022-02-10",
+    "temperatureC": 2,
+    "summary": "Cold"
+  },
+  {
+    "date": "2022-02-11",
+    "temperatureC": 10,
+    "summary": "Bracing"
+  },
+  {
+    "date": "2022-02-12",
+    "temperatureC": -7,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2022-02-13",
+    "temperatureC": 8,
+    "summary": "Cool"
+  },
+  {
+    "date": "2022-02-14",
+    "temperatureC": -12,
+    "summary": "Freezing"
+  },
+  {
+    "date": "2022-02-15",
+    "temperatureC": 4,
+    "summary": "Cold"
+  }
+]
